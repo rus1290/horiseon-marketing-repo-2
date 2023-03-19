@@ -10,3 +10,5 @@ Number two: tailor it to search engines algorithms to increase company's ranking
 
 ## Work I had completed
 To meet my customer's needs, I had edited the HTML code, taking into consideration semantic elements. All sections(nav bar, header, footer, aside and etc) in the website have corresponding tags. All images have a description in alt tags, describing in details what is depicted on an image. I have also changed the <h 1-6> elements, so they follow a logical order, from greatest, to least.
+
+![Alt text](/assets/images/screenshot.png?raw=true "Screenshot")
