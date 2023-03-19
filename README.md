@@ -13,5 +13,4 @@ To meet my customer's needs, I had edited the HTML code, taking into considerati
 
 ![Alt text](/assets/images/screenshot.png?raw=true "Screenshot")
 
-
-[https://www.google.com](https://rus1290.github.io/horiseon-marketing-repo-2/) Horiseon Marketing's Webpage
+[Horiseon Marketing's Webpage](https://rus1290.github.io/horiseon-marketing-repo-2/)
